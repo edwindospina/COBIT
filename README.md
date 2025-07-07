@@ -12,5 +12,4 @@ Centralizar recursos profesionales para apoyar procesos de:
 - Integración de seguridad en entornos Cloud (Azure, AWS)
 - Implementación de marcos NIST CSF y NIST SP800-53
 
-## 📂 Estructura del Repositorio
 
